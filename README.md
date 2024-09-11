@@ -1,40 +1,52 @@
 <div style="display: flex; align-items: flex-start;">
-  <img src="oo.svg" alt="Your Image" width="150" style="margin-right: 20px;"/>
+  <img src="path_to_your_svg_image.svg" alt="Your Image" width="150" style="margin-right: 20px;"/>
 
   <div style="font-family: 'Courier New', Courier, monospace;">
-    ## Hi there! 👋
+    <h2 style="margin-top: 0;">Hi there! 👋</h2>
 
-    ### About Me
-    - **Name**: [Your Name]
-    - **Graduated from**: ALX
-    - **Course**: Software Engineering
+    <h3>About Me</h3>
+    <ul>
+      <li><strong>Name</strong>: [Your Name]</li>
+      <li><strong>Graduated from</strong>: ALX</li>
+      <li><strong>Course</strong>: Software Engineering</li>
+    </ul>
 
-    ### Languages
-    - JavaScript
-    - Python
-    - Java
-    - C++
+    <h3>Languages</h3>
+    <ul>
+      <li>JavaScript</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C++</li>
+    </ul>
 
-    ### Technologies
-    - React
-    - React Native
-    - Node.js
-    - Firebase
-    - Docker
+    <h3>Technologies</h3>
+    <ul>
+      <li>React</li>
+      <li>React Native</li>
+      <li>Node.js</li>
+      <li>Firebase</li>
+      <li>Docker</li>
+    </ul>
 
-    ### Operating Systems
-    - Windows
-    - Linux
-    - macOS
+    <h3>Operating Systems</h3>
+    <ul>
+      <li>Windows</li>
+      <li>Linux</li>
+      <li>macOS</li>
+    </ul>
 
-    ### Contact & Social Media
-    - **Email**: your.email@example.com
-    - **LinkedIn**: Your LinkedIn Profile
-    - **GitHub**: Your GitHub Profile
-    - **Twitter**: Your Twitter Profile
+    <h3>Contact & Social Media</h3>
+    <ul>
+      <li><strong>Email</strong>: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+      <li><strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/yourprofile">Your LinkedIn Profile</a></li>
+      <li><strong>GitHub</strong>: <a href="https://github.com/yourusername">Your GitHub Profile</a></li>
+      <li><strong>Twitter</strong>: <a href="https://twitter.com/yourusername">Your Twitter Profile</a></li>
+    </ul>
 
-    ### Projects
-    - Project 1: Brief description of project 1.
-    - Project 2: Brief description of project 2.
+    <h3>Projects</h3>
+    <ul>
+      <li><a href="https://github.com/yourusername/project1">Project 1</a>: Brief description of project 1.</li>
+      <li><a href="https://github.com/yourusername/project2">Project 2</a>: Brief description of project 2.</li>
+    </ul>
   </div>
 </div>
