@@ -1,16 +1,40 @@
-## Hi there 👋
+<div style="display: flex; align-items: center;">
+  <img src="oo.svg" alt="Your Image" width="150" style="margin-right: 20px;"/>
 
-<!--
-**TrevorMachete/TrevorMachete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div style="font-family: 'Courier New', Courier, monospace;">
+    ## Hi there! 👋
 
-Here are some ideas to get you started:
+    ### About Me
+    - **Name**: [Your Name]
+    - **Graduated from**: ALX
+    - **Course**: Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ### Languages
+    - JavaScript
+    - Python
+    - Java
+    - C++
+
+    ### Technologies
+    - React
+    - React Native
+    - Node.js
+    - Firebase
+    - Docker
+
+    ### Operating Systems
+    - Windows
+    - Linux
+    - macOS
+
+    ### Contact & Social Media
+    - **Email**: your.email@example.com
+    - **LinkedIn**: Your LinkedIn Profile
+    - **GitHub**: Your GitHub Profile
+    - **Twitter**: Your Twitter Profile
+
+    ### Projects
+    - Project 1: Brief description of project 1.
+    - Project 2: Brief description of project 2.
+  </div>
+</div>
