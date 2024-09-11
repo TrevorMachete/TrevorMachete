@@ -1,6 +1,6 @@
 <div class="content">
   <div id="displayImage">
-    <img src="oo.svg">
+    <img src="o.svg">
   </div>
 
   <div id="textContent">
