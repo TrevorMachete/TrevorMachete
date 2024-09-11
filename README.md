@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <img src="oo.svg" alt="Your Image" width="150" style="margin-right: 20px;"/>
 
   <div style="font-family: 'Courier New', Courier, monospace;">
