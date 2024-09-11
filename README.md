@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start;">
-  <img src="path_to_your_svg_image.svg" alt="Your Image" width="150" style="margin-right: 20px;"/>
+  <img src="oo.svg" alt="Your Image" width="150" style="margin-right: 20px;"/>
 
   <div style="font-family: 'Courier New', Courier, monospace;">
     <h2 style="margin-top: 0;">Hi there! 👋</h2>
